@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(240, 233, 233);
+  line-height: 160%;
+  font-size: 18px;
+}
+
+header,
+main,
+footer {
+  width: 70%;
+  margin: 10px auto;
+}
+
+.blog h2 {
+  margin: 10px auto;
+}
+
+.blog {
+  padding: 25px;
+  margin: 25px;
+  box-shadow: 0 0 3px 3px grey;
+  border-radius: 12px;
+}

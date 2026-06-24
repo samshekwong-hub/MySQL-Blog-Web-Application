@@ -1,0 +1,22 @@
+form {
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+}
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 8px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+form button {
+  width: 100%;
+  padding: 8px;
+  cursor: pointer;
+}
