@@ -11,3 +11,17 @@ The SQL script could be found in **db_backup** folder
 3. Open the terminal, activate the program by typing ``` python app.py ```
 4. After the application run successfully, click the ``` Running on http://localhost:5000 ``` and you will successfully open the main page
   
+### Walkthrough
+#### Main Page of the Web
+<img width="1916" height="951" alt="flask_blog2" src="https://github.com/user-attachments/assets/57189954-a372-4db3-b112-86434572f0b2" />
+
+#### Editing Blogs
+Please go to **blogs** to add, remove and edit blogs
+
+##### Adding Blogs ####
+Notice: the **Edit** button of the blog is currently unavailable
+
+1. Click **add blog** in blogs page
+2. Input the information of your blog in the form and submit it
+
+![Input your information of your blog]<img width="1919" height="954" alt="flask_blog4" src="https://github.com/user-attachments/assets/e6d9118a-99c9-465b-9fff-9dddf5b9cd32" />
